@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: black;  /* if you want a black background */
+  /* or */
+  color: black;      /* if you want black text */
+}
